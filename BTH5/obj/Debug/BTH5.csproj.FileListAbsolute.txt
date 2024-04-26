@@ -1,0 +1,17 @@
+C:\Users\nhatt\source\repos\BTH5\bin\Debug\BTH5.exe.config
+C:\Users\nhatt\source\repos\BTH5\bin\Debug\BTH5.exe
+C:\Users\nhatt\source\repos\BTH5\bin\Debug\BTH5.pdb
+C:\Users\nhatt\source\repos\BTH5\obj\Debug\BTH5.csproj.AssemblyReference.cache
+C:\Users\nhatt\source\repos\BTH5\obj\Debug\MainWindow.g.cs
+C:\Users\nhatt\source\repos\BTH5\obj\Debug\App.g.cs
+C:\Users\nhatt\source\repos\BTH5\obj\Debug\BTH5_MarkupCompile.cache
+C:\Users\nhatt\source\repos\BTH5\obj\Debug\BTH5_MarkupCompile.lref
+C:\Users\nhatt\source\repos\BTH5\obj\Debug\MainWindow.baml
+C:\Users\nhatt\source\repos\BTH5\obj\Debug\BTH5.g.resources
+C:\Users\nhatt\source\repos\BTH5\obj\Debug\BTH5.Properties.Resources.resources
+C:\Users\nhatt\source\repos\BTH5\obj\Debug\BTH5.csproj.GenerateResource.cache
+C:\Users\nhatt\source\repos\BTH5\obj\Debug\BTH5.csproj.CoreCompileInputs.cache
+C:\Users\nhatt\source\repos\BTH5\obj\Debug\BTH5.exe
+C:\Users\nhatt\source\repos\BTH5\obj\Debug\BTH5.pdb
+C:\Users\nhatt\source\repos\BTH5\obj\Debug\Window1.g.cs
+C:\Users\nhatt\source\repos\BTH5\obj\Debug\Window1.baml

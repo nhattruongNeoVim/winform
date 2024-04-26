@@ -1,0 +1,13 @@
+C:\Users\nhatt\source\repos\BTH3\bin\Debug\BTH3.exe.config
+C:\Users\nhatt\source\repos\BTH3\bin\Debug\BTH3.exe
+C:\Users\nhatt\source\repos\BTH3\bin\Debug\BTH3.pdb
+C:\Users\nhatt\source\repos\BTH3\obj\Debug\BTH3.csproj.AssemblyReference.cache
+C:\Users\nhatt\source\repos\BTH3\obj\Debug\BTH3.Form1.resources
+C:\Users\nhatt\source\repos\BTH3\obj\Debug\BTH3.Properties.Resources.resources
+C:\Users\nhatt\source\repos\BTH3\obj\Debug\BTH3.csproj.GenerateResource.cache
+C:\Users\nhatt\source\repos\BTH3\obj\Debug\BTH3.csproj.CoreCompileInputs.cache
+C:\Users\nhatt\source\repos\BTH3\obj\Debug\BTH3.exe
+C:\Users\nhatt\source\repos\BTH3\obj\Debug\BTH3.pdb
+C:\Users\nhatt\source\repos\BTH3\obj\Debug\BTH3.Form2.resources
+C:\Users\nhatt\source\repos\BTH3\obj\Debug\BTH3.Form3.resources
+C:\Users\nhatt\source\repos\BTH3\obj\Debug\BTH3.Form4.resources

@@ -1,0 +1,10 @@
+C:\Users\nhatt\source\repos\Students\bin\Debug\Students.exe.config
+C:\Users\nhatt\source\repos\Students\bin\Debug\Students.exe
+C:\Users\nhatt\source\repos\Students\bin\Debug\Students.pdb
+C:\Users\nhatt\source\repos\Students\obj\Debug\Students.csproj.AssemblyReference.cache
+C:\Users\nhatt\source\repos\Students\obj\Debug\Students.FormMain.resources
+C:\Users\nhatt\source\repos\Students\obj\Debug\Students.Properties.Resources.resources
+C:\Users\nhatt\source\repos\Students\obj\Debug\Students.csproj.GenerateResource.cache
+C:\Users\nhatt\source\repos\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+C:\Users\nhatt\source\repos\Students\obj\Debug\Students.exe
+C:\Users\nhatt\source\repos\Students\obj\Debug\Students.pdb

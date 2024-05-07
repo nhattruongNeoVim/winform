@@ -1,0 +1,12 @@
+C:\Users\nhatt\source\repos\BTH4\bin\Debug\BTH4.exe.config
+C:\Users\nhatt\source\repos\BTH4\bin\Debug\BTH4.exe
+C:\Users\nhatt\source\repos\BTH4\bin\Debug\BTH4.pdb
+C:\Users\nhatt\source\repos\BTH4\obj\Debug\BTH4.csproj.AssemblyReference.cache
+C:\Users\nhatt\source\repos\BTH4\obj\Debug\BTH4.Bai1.resources
+C:\Users\nhatt\source\repos\BTH4\obj\Debug\BTH4.Properties.Resources.resources
+C:\Users\nhatt\source\repos\BTH4\obj\Debug\BTH4.csproj.GenerateResource.cache
+C:\Users\nhatt\source\repos\BTH4\obj\Debug\BTH4.csproj.CoreCompileInputs.cache
+C:\Users\nhatt\source\repos\BTH4\obj\Debug\BTH4.exe
+C:\Users\nhatt\source\repos\BTH4\obj\Debug\BTH4.pdb
+C:\Users\nhatt\source\repos\BTH4\obj\Debug\BTH4.Bai2.resources
+C:\Users\nhatt\source\repos\BTH4\obj\Debug\BTH4.Bai3.resources

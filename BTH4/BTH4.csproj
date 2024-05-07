@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{23CCC258-0F29-48F4-909C-4853D417CFA6}</ProjectGuid>
+    <ProjectGuid>{28CCB645-9400-4DC4-98A2-2B58B723F4A0}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>BTH3</RootNamespace>
-    <AssemblyName>BTH3</AssemblyName>
+    <RootNamespace>BTH4</RootNamespace>
+    <AssemblyName>BTH4</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -35,6 +35,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -46,43 +47,34 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form\PTB1.cs">
+    <Compile Include="Form\Bai3.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form\PTB1.Designer.cs">
-      <DependentUpon>PTB1.cs</DependentUpon>
+    <Compile Include="Form\Bai3.Designer.cs">
+      <DependentUpon>Bai3.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form\PTB2.cs">
+    <Compile Include="Form\Bai2.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form\PTB2.Designer.cs">
-      <DependentUpon>PTB2.cs</DependentUpon>
+    <Compile Include="Form\Bai2.Designer.cs">
+      <DependentUpon>Bai2.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form\Login.cs">
+    <Compile Include="Form\Bai1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form\Login.Designer.cs">
-      <DependentUpon>Login.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Form\Employee.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form\Employee.Designer.cs">
-      <DependentUpon>Employee.cs</DependentUpon>
+    <Compile Include="Form\Bai1.Designer.cs">
+      <DependentUpon>Bai1.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form\PTB1.resx">
-      <DependentUpon>PTB1.cs</DependentUpon>
+    <EmbeddedResource Include="Form\Bai1.resx">
+      <DependentUpon>Bai1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form\PTB2.resx">
-      <DependentUpon>PTB2.cs</DependentUpon>
+    <EmbeddedResource Include="Form\Bai2.resx">
+      <DependentUpon>Bai2.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form\Login.resx">
-      <DependentUpon>Login.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Form\Employee.resx">
-      <DependentUpon>Employee.cs</DependentUpon>
+    <EmbeddedResource Include="Form\Bai3.resx">
+      <DependentUpon>Bai3.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

@@ -57,7 +57,7 @@ namespace BTH3
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.label2.Location = new System.Drawing.Point(176, 115);
+            this.label2.Location = new System.Drawing.Point(175, 115);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(78, 25);
             this.label2.TabIndex = 1;
@@ -67,7 +67,7 @@ namespace BTH3
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.label3.Location = new System.Drawing.Point(176, 173);
+            this.label3.Location = new System.Drawing.Point(176, 172);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(77, 25);
             this.label3.TabIndex = 2;
@@ -99,7 +99,7 @@ namespace BTH3
             // 
             this.button2.Enabled = false;
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.button2.Location = new System.Drawing.Point(358, 308);
+            this.button2.Location = new System.Drawing.Point(363, 308);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(80, 34);
             this.button2.TabIndex = 5;
@@ -132,7 +132,7 @@ namespace BTH3
             // 
             this.textBox2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.textBox2.Location = new System.Drawing.Point(303, 168);
+            this.textBox2.Location = new System.Drawing.Point(303, 169);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(333, 30);
             this.textBox2.TabIndex = 8;
@@ -142,7 +142,7 @@ namespace BTH3
             // 
             this.textBox3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.textBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.textBox3.Location = new System.Drawing.Point(303, 229);
+            this.textBox3.Location = new System.Drawing.Point(303, 228);
             this.textBox3.Name = "textBox3";
             this.textBox3.ReadOnly = true;
             this.textBox3.Size = new System.Drawing.Size(333, 30);

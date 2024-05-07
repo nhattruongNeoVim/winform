@@ -70,7 +70,7 @@ namespace BTH3
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.label3.Location = new System.Drawing.Point(111, 112);
+            this.label3.Location = new System.Drawing.Point(111, 111);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(177, 25);
             this.label3.TabIndex = 2;
@@ -80,7 +80,7 @@ namespace BTH3
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.label4.Location = new System.Drawing.Point(153, 160);
+            this.label4.Location = new System.Drawing.Point(153, 164);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(135, 25);
             this.label4.TabIndex = 3;
@@ -90,7 +90,7 @@ namespace BTH3
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.label5.Location = new System.Drawing.Point(189, 221);
+            this.label5.Location = new System.Drawing.Point(189, 217);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(99, 25);
             this.label5.TabIndex = 4;
@@ -100,7 +100,7 @@ namespace BTH3
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.label6.Location = new System.Drawing.Point(175, 271);
+            this.label6.Location = new System.Drawing.Point(175, 270);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(113, 25);
             this.label6.TabIndex = 5;
@@ -117,7 +117,7 @@ namespace BTH3
             // textBox2
             // 
             this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.textBox2.Location = new System.Drawing.Point(328, 109);
+            this.textBox2.Location = new System.Drawing.Point(328, 107);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(174, 30);
             this.textBox2.TabIndex = 7;
@@ -125,7 +125,7 @@ namespace BTH3
             // textBox3
             // 
             this.textBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.textBox3.Location = new System.Drawing.Point(328, 157);
+            this.textBox3.Location = new System.Drawing.Point(328, 159);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(174, 30);
             this.textBox3.TabIndex = 8;
@@ -145,7 +145,7 @@ namespace BTH3
             // 
             this.button2.Enabled = false;
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.button2.Location = new System.Drawing.Point(303, 349);
+            this.button2.Location = new System.Drawing.Point(298, 349);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(94, 41);
             this.button2.TabIndex = 11;
@@ -168,7 +168,7 @@ namespace BTH3
             // 
             this.comboBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(328, 218);
+            this.comboBox1.Location = new System.Drawing.Point(328, 211);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(174, 33);
             this.comboBox1.TabIndex = 13;
@@ -177,7 +177,7 @@ namespace BTH3
             // 
             this.comboBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Location = new System.Drawing.Point(328, 268);
+            this.comboBox2.Location = new System.Drawing.Point(328, 266);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(174, 33);
             this.comboBox2.TabIndex = 14;

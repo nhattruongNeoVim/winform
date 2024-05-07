@@ -25,7 +25,6 @@ namespace BTH3
             MessageBox.Show("Employee Address is " + textBox2.Text);
             MessageBox.Show("Joined on " + textBox3.Text + " has education " + comboBox1.SelectedItem.ToString() 
                 + " and belongs to dept " + comboBox2.SelectedItem.ToString());
-            //button2_Click(sender, e);
             button2.Enabled = true;
         }
 

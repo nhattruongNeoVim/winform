@@ -69,7 +69,7 @@ namespace BTH3
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.label3.Location = new System.Drawing.Point(185, 197);
+            this.label3.Location = new System.Drawing.Point(183, 199);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(79, 25);
             this.label3.TabIndex = 3;
@@ -79,7 +79,7 @@ namespace BTH3
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.label4.Location = new System.Drawing.Point(35, 241);
+            this.label4.Location = new System.Drawing.Point(33, 240);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(229, 25);
             this.label4.TabIndex = 4;
@@ -99,7 +99,7 @@ namespace BTH3
             // 
             this.textBox2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.textBox2.Location = new System.Drawing.Point(298, 156);
+            this.textBox2.Location = new System.Drawing.Point(298, 157);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(333, 30);
             this.textBox2.TabIndex = 9;
@@ -131,7 +131,7 @@ namespace BTH3
             // 
             this.button2.Enabled = false;
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.button2.Location = new System.Drawing.Point(390, 311);
+            this.button2.Location = new System.Drawing.Point(386, 311);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(80, 34);
             this.button2.TabIndex = 12;
@@ -154,7 +154,7 @@ namespace BTH3
             // 
             this.textBox4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.textBox4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.textBox4.Location = new System.Drawing.Point(298, 239);
+            this.textBox4.Location = new System.Drawing.Point(298, 237);
             this.textBox4.Name = "textBox4";
             this.textBox4.ReadOnly = true;
             this.textBox4.Size = new System.Drawing.Size(333, 30);
@@ -164,7 +164,7 @@ namespace BTH3
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.label5.Location = new System.Drawing.Point(185, 156);
+            this.label5.Location = new System.Drawing.Point(185, 158);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(77, 25);
             this.label5.TabIndex = 15;

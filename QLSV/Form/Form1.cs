@@ -36,6 +36,8 @@ namespace QLSV
                 adt = new SqlDataAdapter(cmd);
                 adt.Fill(dt);
                 dataGridView1.DataSource = dt;
+                cb_Khoa.DataSource = dt;
+                cb_Khoa.DisplayMember = "Khoa";
             }
             catch (Exception ex)
             {
@@ -57,13 +59,15 @@ namespace QLSV
             int i = dataGridView1.CurrentRow.Index;
             txt_MaSV.Text = dataGridView1.Rows[i].Cells[0].Value.ToString();
             txt_HoTen.Text = dataGridView1.Rows[i].Cells[1].Value.ToString();
+
             txt_NgaySinh.Text = dataGridView1.Rows[i].Cells[2].Value.ToString();
+
             txt_DiaChi.Text = dataGridView1.Rows[i].Cells[3].Value.ToString();
             txt_SDT.Text = dataGridView1.Rows[i].Cells[4].Value.ToString();
             cb_K.Text = dataGridView1.Rows[i].Cells[5].Value.ToString();
             cb_Khoa.Text = dataGridView1.Rows[i].Cells[6].Value.ToString();
-        }
 
+        }
         private void btn_them_Click(object sender, EventArgs e)
         {
             try
@@ -72,7 +76,7 @@ namespace QLSV
                 cmd = new SqlCommand("INSERT INTO SINHVIEN (MaSV, HoTen, NgaySinh, DiaChi, SDT, Khoa, NamVaoTruong) VALUES (@MaSV, @HoTen, @NgaySinh, @DiaChi, @SDT, @Khoa, @NamVaoTruong)", con);
                 cmd.Parameters.AddWithValue("@MaSV", txt_MaSV.Text);
                 cmd.Parameters.AddWithValue("@HoTen", txt_HoTen.Text);
-                cmd.Parameters.AddWithValue("@NgaySinh", txt_NgaySinh.Text);
+                cmd.Parameters.AddWithValue("@NgaySinh", DateTime.Parse(txt_NgaySinh.Text));
                 cmd.Parameters.AddWithValue("@DiaChi", txt_DiaChi.Text);
                 cmd.Parameters.AddWithValue("@SDT", txt_SDT.Text);
                 cmd.Parameters.AddWithValue("@Khoa", cb_Khoa.Text);

@@ -7,7 +7,15 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="MainWindow.xaml">
+    <Compile Update="Form\DKHP.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Form\SINHVIEN.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Form\DKHP.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

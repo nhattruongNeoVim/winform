@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\nhatt\source\winform\KTR\App.xaml
-11407045341
+2-2014607949
 
-61666551868
+7-1751475127
 199-106156516
-MainWindow.xaml;
+Form\DKHP.xaml;Form\SINHVIEN.xaml;
 
 True
 

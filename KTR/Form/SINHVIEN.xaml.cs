@@ -16,7 +16,7 @@ namespace KTR
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class SINHVIEN : Window
     {
         private String conString = "Data Source=172.28.29.235;Initial Catalog=ktra;Persist Security Info=True;User ID=sa;Password=1234567890p*;Encrypt=False";
         SqlConnection con;
@@ -24,7 +24,7 @@ namespace KTR
         SqlDataAdapter adt;
         DataTable dt = new DataTable();
 
-        public MainWindow()
+        public SINHVIEN()
         {
             InitializeComponent();
             LoadDB();
@@ -168,6 +168,12 @@ namespace KTR
                 cb_Khoa.Text = row["Khoa"].ToString();
                 date_ToSchool.Text = row["NamVaoTruong"].ToString();
             }
+        }
+
+        private void btn_DKHP_Click(object sender, RoutedEventArgs e)
+        {
+            DKHP form = new DKHP();
+            form.Show();
         }
     }
 }

@@ -38,11 +38,9 @@ C:\Users\nhatt\source\winform\KTR\bin\Debug\net8.0-windows\runtimes\win-x86\nati
 C:\Users\nhatt\source\winform\KTR\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\nhatt\source\winform\KTR\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\nhatt\source\winform\KTR\obj\Debug\net8.0-windows\KTR.csproj.AssemblyReference.cache
-C:\Users\nhatt\source\winform\KTR\obj\Debug\net8.0-windows\MainWindow.g.cs
 C:\Users\nhatt\source\winform\KTR\obj\Debug\net8.0-windows\App.g.cs
 C:\Users\nhatt\source\winform\KTR\obj\Debug\net8.0-windows\KTR_MarkupCompile.cache
 C:\Users\nhatt\source\winform\KTR\obj\Debug\net8.0-windows\KTR_MarkupCompile.lref
-C:\Users\nhatt\source\winform\KTR\obj\Debug\net8.0-windows\MainWindow.baml
 C:\Users\nhatt\source\winform\KTR\obj\Debug\net8.0-windows\KTR.g.resources
 C:\Users\nhatt\source\winform\KTR\obj\Debug\net8.0-windows\KTR.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\nhatt\source\winform\KTR\obj\Debug\net8.0-windows\KTR.AssemblyInfoInputs.cache
@@ -55,3 +53,7 @@ C:\Users\nhatt\source\winform\KTR\obj\Debug\net8.0-windows\refint\KTR.dll
 C:\Users\nhatt\source\winform\KTR\obj\Debug\net8.0-windows\KTR.pdb
 C:\Users\nhatt\source\winform\KTR\obj\Debug\net8.0-windows\KTR.genruntimeconfig.cache
 C:\Users\nhatt\source\winform\KTR\obj\Debug\net8.0-windows\ref\KTR.dll
+C:\Users\nhatt\source\winform\KTR\obj\Debug\net8.0-windows\Form\SINHVIEN.g.cs
+C:\Users\nhatt\source\winform\KTR\obj\Debug\net8.0-windows\Form\SINHVIEN.baml
+C:\Users\nhatt\source\winform\KTR\obj\Debug\net8.0-windows\Form\DKHP.g.cs
+C:\Users\nhatt\source\winform\KTR\obj\Debug\net8.0-windows\Form\DKHP.baml
